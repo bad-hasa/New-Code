@@ -1,0 +1,23 @@
+h1 {
+  color:rgba(0, 119, 255, 0.808);
+  text-align: center;
+}
+body{
+  background-image: radial-gradient(circle,#9370db, #f08080, #00bfff);
+  text-align: center;
+}
+p {
+  color:blueviolet;
+  text-align: center;
+}
+ul {
+  color:blueviolet;
+  text-align: center;
+  list-style-position: inside;
+}
+h4 {
+  color:rgb(255, 174, 0);
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
